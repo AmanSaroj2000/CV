@@ -7,12 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<style>
-   
-    body{
-        background-color:#e1e5ea;
-    }
-</style>
 
 <body>
     <header>
